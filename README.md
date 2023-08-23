@@ -18,6 +18,7 @@ e-book과 종이책 두 가지로 구분되는 도서를 취급하고 있으며,
 <br/>
 
 ### ⭐ 기술스택:
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <br/>
 <br/>
 
