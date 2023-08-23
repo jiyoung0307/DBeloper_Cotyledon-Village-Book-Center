@@ -17,14 +17,13 @@ e-book과 종이책 두 가지로 구분되는 도서를 취급하고 있으며,
 <br/>
 <br/>
 
+### ⭐ 기술스택:
+<br/>
+<br/>
+
 <strong>:calendar: 작업 기간</strong> : 2022.04.11 ~ 2022.04.28
 <br/>
-
-### ⭐ 기술스택:
-
-
 <strong> :man_technologist: 투입 인원</strong> : 6명
 <br/>
-
-### :ledger: : 주요 업무
-### [데이터 관리 팀장]
+<br/>
+<strong> :ledger: : 주요 업무</strong> : 데이터 관리 팀장
